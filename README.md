@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Giorgi-Garsevanishvili
 
-- 👀 I’m interested in
-- while (true) {
+- 👀 I’m interested in while (true) {
   console.log("Exploring the endless wonders of my interests!");
 }
 
