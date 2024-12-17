@@ -4,6 +4,6 @@
   console.log("Exploring the endless wonders of my interests!");
 }
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript / Angular
 - 📫 How to reach me --- George.Garsevanidi@Gmail.com
 
